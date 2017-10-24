@@ -5,7 +5,8 @@
 Intall dependencies
 
 ```
-docker build
+cd ./intellij;
+docker build .
 ```
 
 Get current IP address
